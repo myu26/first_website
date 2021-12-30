@@ -1,0 +1,28 @@
+h1{
+    color:rgb(35, 77, 192);
+    font-size: larger;
+    font-weight: bolder;
+    margin:0px;
+    font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    text-align: center;
+}
+
+#Lauren{
+    color:orchid;
+    text-align:center;
+}
+
+#Miles{
+    color:rgb(18, 143, 28)
+}
+
+ul{
+    color:slateblue;
+    font-size: large;
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
+    border-style:outset;
+    border-width: 3px;
+    border-color:dimgray;
+    border-radius: 15px;
+    
+}
